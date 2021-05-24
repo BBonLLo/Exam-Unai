@@ -11,6 +11,7 @@ public class Empleado {
 	 * nombre Nombre del empleado
 	 * apellidos Apellidos del empleado
 	 * salario Salario del empleado
+	 * 
 	 */
 	private String nombre;
 	private String apellidos;
